@@ -24,8 +24,10 @@ const Index = ({ data }) => {
   const { edges } = data.allMarkdownRemark;
   return (
     <Layout>
-      <Helmet title={'Home Page'} />
-      <Header title="Home Page">Gatsby Tutorial Starter</Header>
+      <Helmet title={'Jujuy - Mentoring de tecnologia'} />
+      <Header title="Mentoring de tecnologia">
+        Nuestra mision es desmitificar lo que parece complejo
+      </Header>
       <PostWrapper>
         {edges.map(({ node }) => {
           const { id, excerpt, frontmatter } = node;

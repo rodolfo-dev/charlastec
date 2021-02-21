@@ -43,7 +43,7 @@ const Post = ({ data, pageContext }) => {
         <PostSuggestion>
           {prev && (
             <Link to={prev.frontmatter.path}>
-              Previous
+              Quizas te interese
               <h3>{prev.frontmatter.title}</h3>
             </Link>
           )}
@@ -51,7 +51,7 @@ const Post = ({ data, pageContext }) => {
         <PostSuggestion>
           {next && (
             <Link to={next.frontmatter.path}>
-              Next
+              Quizas te interese
               <h3>{next.frontmatter.title}</h3>
             </Link>
           )}

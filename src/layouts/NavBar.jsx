@@ -33,9 +33,9 @@ const NavBar = () => (
       <img src={logo} alt="Gatsby Logo" />
     </StyledLink>
     <Nav>
-      <Link to="/">Home</Link>
-      <Link to="/blog">Blog</Link>
-      <Link to="/about">About</Link>
+      <Link to="/">Inicio</Link>
+      <Link to="/blog">Entradas</Link>
+      <Link to="/about">Acerca de nosotros</Link>
     </Nav>
   </Headroom>
 );
