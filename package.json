@@ -19,7 +19,8 @@
     "format": "prettier --write src/**/*.{js,jsx}",
     "lint-errors": "eslint src/**/*.{js,jsx} --quiet",
     "lint": "eslint src/**/*.{js,jsx}",
-    "start": "npm run develop"
+    "start": "npm run develop",
+    "deploy": "firebase deploy"
   },
   "dependencies": {
     "@babel/core": "^7.6.0",
