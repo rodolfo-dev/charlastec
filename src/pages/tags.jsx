@@ -8,7 +8,7 @@ const Tags = ({ pageContext }) => {
 
   return (
     <Layout>
-      <Header title="Etiquetas">Jujuy - Mentoring de tecnologia</Header>
+      <Header title="Etiquetas">Jujuy - Charlas Sobre Tecnologia</Header>
       <Container>
         <TagsBlock list={tags} />
       </Container>

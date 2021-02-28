@@ -24,9 +24,10 @@ const Index = ({ data }) => {
   const { edges } = data.allMarkdownRemark;
   return (
     <Layout>
-      <Helmet title={'Jujuy - Mentoring de tecnologia'} />
-      <Header title="Mentoring de tecnologia">
-        Nuestra mision es desmitificar lo que parece complejo
+      <Helmet title={'Jujuy - Charlas Sobre Tecnologia'} />
+      <Header title="Charlas Sobre Tecnologia">
+        Charlas orientadas a llevar saberes practicos relacionados con herramientas
+        o tecnologias de la informacion a la comunidad
       </Header>
       <PostWrapper>
         {edges.map(({ node }) => {

@@ -25,7 +25,7 @@ const Footer = () => (
   <Wrapper>
     <Text>
       <span>
-        Jujuy - Mentoring de tecnologia
+        Jujuy - Charlas sobre tecnologia
       </span>
     </Text>
   </Wrapper>
