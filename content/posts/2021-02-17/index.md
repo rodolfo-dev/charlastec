@@ -9,12 +9,24 @@ tags: ["charlas"]
 
 Muchas aplicaciones que usamos a diario tales como Netflix usan lo que se llama una infraestructura en la nube, esta palabra se repite y se usa muchas veces pero no todos entienden a que se refiere.
 
-En esta charla vamos a explicar que significa que una empresa una aplicacion o que nuestras fotos o videos estan en la nube.
+En esta charla vamos a explicar que significa que nuestras fotos, videos, aplicaciones como Whatsapp, Netflix o Facebook vivan en la nube. 
 
-## Idea general de la charla
+## Estructura general de la charla
 
-En la charla vamos a desarrollar el concepto de "la nube" tomando como ejemplo una aplicacion muy utilizada y conocida: "Netflix" y como la variacion en la cantidad de usuarios que tiene a nivel global es un ejemplo directo de los beneficios que una infraestructura en la nube tiene a diferencia de la anterior forma que tenian las empresas de abordar este problema con la pregunta "Cuantos servidores deberia comprar para que mi aplicacion X funcione bien"
+En la charla vamos a desarrollar el concepto de "la nube" tomando como ejemplo aplicaciones muy utilizadas y conocidas como "Netflix" y "Whatsapp".
 
+Veremos las ventajas que ofrece el uso de servicios en la nube y las razones de su popularidad.
+
+Compartiremos nuestra experiencias trabajando en la nube, y XXX los participantes podran realizar preguntas.
+
+Nuestro objetivo es acercar informacion y recursos para dar los primeros pasos para trabajar con la nube XXX 
+
+Al final de la charla compartiremos recursos/cursos/links para saber como iniciar un camino de aprendizaje XXXXXX
+
+
+AGREGAR CITA DE UN AUTOR, COMO EL PULPO
+
+casos reales de como se trabaja 
 ## Duracion y conocimientos previos recomendados
 
 - Duracion: `45 minutos`

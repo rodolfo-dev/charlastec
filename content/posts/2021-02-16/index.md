@@ -6,4 +6,4 @@ title: "Introduccion a Analisis de Datos empresariales"
 published: true
 tags: ["cursos"]
 ---
-Bussiness Intelligence es...
+Proximamente

@@ -26,8 +26,12 @@ const Index = ({ data }) => {
     <Layout>
       <Helmet title={'Jujuy - Charlas Sobre Tecnologia'} />
       <Header title="Charlas Sobre Tecnologia">
-        Charlas orientadas a llevar saberes practicos relacionados con herramientas
-        o tecnologias de la informacion a la comunidad
+        <p>
+          Casi la mitad de los empleos seran reemplazado por robots o computadoras. <strong>Andrés Oppenheimer "Salvese quien pueda"</strong>
+        </p>
+        <p>
+          La preocupación es que la revolución digital va a destruir una enorme cantidad de puestos de trabajo. <strong>Yuval Harari</strong>
+        </p>
       </Header>
       <PostWrapper>
         {edges.map(({ node }) => {
